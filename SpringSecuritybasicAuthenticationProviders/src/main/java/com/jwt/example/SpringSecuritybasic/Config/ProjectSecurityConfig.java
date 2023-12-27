@@ -1,6 +1,6 @@
 package com.jwt.example.SpringSecuritybasic.Config;
 
-import com.jwt.example.SpringSecuritybasic.Config.Filer.CsrfCookieFilter;
+import com.jwt.example.SpringSecuritybasic.Filter.CsrfCookieFilter;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

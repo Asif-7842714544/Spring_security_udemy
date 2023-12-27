@@ -1,4 +1,4 @@
-package com.jwt.example.SpringSecuritybasic.Config.Filer;
+package com.jwt.example.SpringSecuritybasic.Filter;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
